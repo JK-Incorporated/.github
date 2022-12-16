@@ -6,6 +6,6 @@ In the years following the discontinuation of JK-DOS, J.K. Incorporated released
 
 According to the README file on the EYN-DOS GitHub repository, the software includes a range of tools and features designed to make using a computer easier and more efficient. These tools include a file manager, a text editor, a calculator, and a task manager, among others. EYN-DOS is known for its user-friendly interface and comprehensive documentation and support materials.
 
-The company is currently led by Kian Gentry, who has been with J.K. Incorporated since its founding. Other notable employees include Ian Greeves and Kamil Makuch. Jacob Fargi, a co-founder of the company, left J.K. Incorporated in 2019.
+The company is currently led by Kian Gentry, who has been with J.K. Incorporated since its founding. Other notable employees include Ian Greeves and John Doe. Jacob Fargi, a co-founder of the company, left J.K. Incorporated in 2019.
 
 J.K. Incorporated is known for its commitment to creating user-friendly products that make using computers easier and more accessible. The company's focus on customer satisfaction and excellent support has made it a trusted name in the software industry and a popular choice among home computer users.
